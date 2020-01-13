@@ -1,3 +1,5 @@
+Revlo is no longer running. This project is archived.
+-------------------------
 # RevloLib
 
 ## About
